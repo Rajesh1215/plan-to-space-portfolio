@@ -20,4 +20,4 @@ GitHub Pages: deploy the `main` branch, repository root. Relative asset URLs sup
 
 ## Checks
 
-Verify image enlargement/keyboard closing, the two plan-view buttons, mobile layout, video controls and the Google Form link before sharing. Check the form with a signed-out browser and keep response summaries private.
+Verify image enlargement/keyboard closing, mobile layout, video controls and the Google Form link before sharing. Check the form with a signed-out browser and keep response summaries private. Project details are optional; name and reply contact are required.

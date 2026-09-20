@@ -1,10 +1,3 @@
-const views = {cutaway: {src:'assets/top-cutaway.webp', caption:'Roof and upper walls removed — approximate model dimensions'}, full:{src:'assets/top-full-walls.webp',caption:'Roof removed, full-height walls retained — approximate model dimensions'}};
-const plan = document.querySelector('#plan-image');
-document.querySelectorAll('[data-plan]').forEach(button => button.addEventListener('click', () => {
-  const view = views[button.dataset.plan]; plan.src=view.src; plan.alt=view.caption;
-  plan.parentElement.dataset.enlarge=view.src; plan.parentElement.dataset.caption=view.caption;
-  document.querySelectorAll('[data-plan]').forEach(item => {const active=item===button;item.classList.toggle('active',active);item.setAttribute('aria-pressed',String(active));});
-}));
 const lightbox=document.querySelector('#lightbox');
 document.querySelectorAll('[data-enlarge]').forEach(button=>button.addEventListener('click',()=>{
   document.querySelector('#lightbox-image').src=button.dataset.enlarge;
