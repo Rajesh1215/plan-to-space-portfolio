@@ -12,7 +12,7 @@ The project enquiry button links to a Google Form. Its public responder URL is c
 
 ## Content
 
-This is a concept demonstration, not a completed client project. The furnished Blender model was interpreted from a reference layout, with illustrative finishes, terrace and landscape additions. Dimensions are approximate model reference spans, not surveyed clear internal dimensions or construction documentation. The original third-party plan image is intentionally not redistributed here. Images are project renders, not stock photographs. The 67-second video includes exterior and interior sequences, with cuts between room shots.
+This is a concept demonstration, not a completed client project. The furnished Blender model was interpreted from a reference layout, with illustrative finishes, terrace and landscape additions. Dimensions are approximate model reference spans, not surveyed clear internal dimensions or construction documentation. The before-and-after section includes the user-requested third-party reference plan from https://i.pinimg.com/1200x/bd/8b/01/bd8b01b9952b5d35032555fb0d737a98.jpg and links to that source. Its original creator and reuse licence have not been verified; attribution is not a licence, and the drawing is not claimed as Rajesh's design. Other images are project renders, not stock photographs. The 67-second video includes exterior and interior sequences, with cuts between room shots.
 
 ## Hosting
 
